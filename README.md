@@ -14,9 +14,7 @@ Computer Vision Projects:
 * Face Mask Detection using YoloV5 and OpenCV - https://github.com/nathalierocelle/FaceMaskDetection
 
 Natural Language Processing Projects:
-*
-*
-*
+
 
 
 
