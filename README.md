@@ -1,4 +1,4 @@
-# Portfolio
+# List of Projects
 
 Machine Learning Projects:
 * Road Accident Severity Classification - https://github.com/nathalierocelle/RoadAccidentSeverityPrediction
