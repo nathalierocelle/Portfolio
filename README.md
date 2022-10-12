@@ -15,8 +15,12 @@
 
 **Natural Language Processing Projects:**
 
-**MIT IDSS E-portfolio**
-* Data Science and Machine Learning Program - https://eportfolio.mygreatlearning.com/rocelle-nathalie-ong
+# MIT IDSS E-portfolio
+**Data Science and Machine Learning Program** - https://eportfolio.mygreatlearning.com/rocelle-nathalie-ong
+* New York Taxi Trip Duration Prediction
+* Netflix Movie Recommendation
+* Pima Indians Diabetes Analysis
+
 
 
 
