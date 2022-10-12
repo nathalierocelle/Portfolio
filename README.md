@@ -15,6 +15,8 @@
 
 **Natural Language Processing Projects:**
 
-**MIT IDSS E-portfolio*
-Data Science and Machine Learning Program - https://eportfolio.mygreatlearning.com/rocelle-nathalie-ong
+**MIT IDSS E-portfolio**
+* Data Science and Machine Learning Program - https://eportfolio.mygreatlearning.com/rocelle-nathalie-ong
+
+
 
